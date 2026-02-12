@@ -7,10 +7,10 @@ export const RESUME_DATA: ResumeData = {
   contact: {
     phone: "+91 9381103596",
     email: "saiganesh0813@gmail.com",
-    linkedin: "https://linkedin.com/in/sai-ganesh-dhara",
-    github: "https://github.com/saiganesh0813"
+    linkedin: "https://www.linkedin.com/in/sai-ganesh-1719431b9/",
+    github: "https://github.com/saiganesh5"
   },
-  about: "I am a technology enthusiast with hands-on experience in Java, Spring Boot, REST APIs, and MySQL, along with a strong understanding of system design and application deployment. I focus on writing clean, efficient code and understanding how software behaves in real-world environments.",
+  about: "I am a Final year CS grad with hands-on experience in Java, Spring Boot, REST APIs, and MySQL, along with a strong understanding of system design and application deployment.",
   skills: [
     {
       name: "Languages",
